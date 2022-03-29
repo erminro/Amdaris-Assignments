@@ -1,0 +1,15 @@
+D:\amdaris\Linq\Linq\bin\Debug\net6.0\LinqAssignment.exe
+D:\amdaris\Linq\Linq\bin\Debug\net6.0\LinqAssignment.deps.json
+D:\amdaris\Linq\Linq\bin\Debug\net6.0\LinqAssignment.runtimeconfig.json
+D:\amdaris\Linq\Linq\bin\Debug\net6.0\LinqAssignment.dll
+D:\amdaris\Linq\Linq\bin\Debug\net6.0\LinqAssignment.pdb
+D:\amdaris\Linq\Linq\obj\Debug\net6.0\LinqAssignment.csproj.AssemblyReference.cache
+D:\amdaris\Linq\Linq\obj\Debug\net6.0\LinqAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\amdaris\Linq\Linq\obj\Debug\net6.0\LinqAssignment.AssemblyInfoInputs.cache
+D:\amdaris\Linq\Linq\obj\Debug\net6.0\LinqAssignment.AssemblyInfo.cs
+D:\amdaris\Linq\Linq\obj\Debug\net6.0\LinqAssignment.csproj.CoreCompileInputs.cache
+D:\amdaris\Linq\Linq\obj\Debug\net6.0\LinqAssignment.dll
+D:\amdaris\Linq\Linq\obj\Debug\net6.0\refint\LinqAssignment.dll
+D:\amdaris\Linq\Linq\obj\Debug\net6.0\LinqAssignment.pdb
+D:\amdaris\Linq\Linq\obj\Debug\net6.0\LinqAssignment.genruntimeconfig.cache
+D:\amdaris\Linq\Linq\obj\Debug\net6.0\ref\LinqAssignment.dll

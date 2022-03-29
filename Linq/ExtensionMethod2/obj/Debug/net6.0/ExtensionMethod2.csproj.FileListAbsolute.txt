@@ -1,0 +1,15 @@
+D:\amdaris\Linq\ExtensionMethod2\bin\Debug\net6.0\ExtensionMethod2.exe
+D:\amdaris\Linq\ExtensionMethod2\bin\Debug\net6.0\ExtensionMethod2.deps.json
+D:\amdaris\Linq\ExtensionMethod2\bin\Debug\net6.0\ExtensionMethod2.runtimeconfig.json
+D:\amdaris\Linq\ExtensionMethod2\bin\Debug\net6.0\ExtensionMethod2.dll
+D:\amdaris\Linq\ExtensionMethod2\bin\Debug\net6.0\ExtensionMethod2.pdb
+D:\amdaris\Linq\ExtensionMethod2\obj\Debug\net6.0\ExtensionMethod2.csproj.AssemblyReference.cache
+D:\amdaris\Linq\ExtensionMethod2\obj\Debug\net6.0\ExtensionMethod2.GeneratedMSBuildEditorConfig.editorconfig
+D:\amdaris\Linq\ExtensionMethod2\obj\Debug\net6.0\ExtensionMethod2.AssemblyInfoInputs.cache
+D:\amdaris\Linq\ExtensionMethod2\obj\Debug\net6.0\ExtensionMethod2.AssemblyInfo.cs
+D:\amdaris\Linq\ExtensionMethod2\obj\Debug\net6.0\ExtensionMethod2.csproj.CoreCompileInputs.cache
+D:\amdaris\Linq\ExtensionMethod2\obj\Debug\net6.0\ExtensionMethod2.dll
+D:\amdaris\Linq\ExtensionMethod2\obj\Debug\net6.0\refint\ExtensionMethod2.dll
+D:\amdaris\Linq\ExtensionMethod2\obj\Debug\net6.0\ExtensionMethod2.pdb
+D:\amdaris\Linq\ExtensionMethod2\obj\Debug\net6.0\ExtensionMethod2.genruntimeconfig.cache
+D:\amdaris\Linq\ExtensionMethod2\obj\Debug\net6.0\ref\ExtensionMethod2.dll

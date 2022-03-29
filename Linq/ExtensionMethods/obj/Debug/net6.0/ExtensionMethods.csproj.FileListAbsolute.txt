@@ -1,0 +1,5 @@
+D:\amdaris\Linq\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\amdaris\Linq\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\amdaris\Linq\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\amdaris\Linq\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfo.cs
+D:\amdaris\Linq\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.CoreCompileInputs.cache

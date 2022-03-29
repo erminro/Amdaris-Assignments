@@ -1,0 +1,15 @@
+D:\amdaris\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.AssemblyReference.cache
+D:\amdaris\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\amdaris\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+D:\amdaris\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+D:\amdaris\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+D:\amdaris\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.exe
+D:\amdaris\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.deps.json
+D:\amdaris\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+D:\amdaris\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.dll
+D:\amdaris\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.pdb
+D:\amdaris\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.dll
+D:\amdaris\Assignment3\Assignment3\obj\Debug\net6.0\refint\Assignment3.dll
+D:\amdaris\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.pdb
+D:\amdaris\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.genruntimeconfig.cache
+D:\amdaris\Assignment3\Assignment3\obj\Debug\net6.0\ref\Assignment3.dll
