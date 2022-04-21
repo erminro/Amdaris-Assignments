@@ -1,0 +1,15 @@
+D:\amdaris\BehavioralPattern\BehavioralPattern\bin\Debug\net6.0\BehavioralPattern.exe
+D:\amdaris\BehavioralPattern\BehavioralPattern\bin\Debug\net6.0\BehavioralPattern.deps.json
+D:\amdaris\BehavioralPattern\BehavioralPattern\bin\Debug\net6.0\BehavioralPattern.runtimeconfig.json
+D:\amdaris\BehavioralPattern\BehavioralPattern\bin\Debug\net6.0\BehavioralPattern.dll
+D:\amdaris\BehavioralPattern\BehavioralPattern\bin\Debug\net6.0\BehavioralPattern.pdb
+D:\amdaris\BehavioralPattern\BehavioralPattern\obj\Debug\net6.0\BehavioralPattern.csproj.AssemblyReference.cache
+D:\amdaris\BehavioralPattern\BehavioralPattern\obj\Debug\net6.0\BehavioralPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\amdaris\BehavioralPattern\BehavioralPattern\obj\Debug\net6.0\BehavioralPattern.AssemblyInfoInputs.cache
+D:\amdaris\BehavioralPattern\BehavioralPattern\obj\Debug\net6.0\BehavioralPattern.AssemblyInfo.cs
+D:\amdaris\BehavioralPattern\BehavioralPattern\obj\Debug\net6.0\BehavioralPattern.csproj.CoreCompileInputs.cache
+D:\amdaris\BehavioralPattern\BehavioralPattern\obj\Debug\net6.0\BehavioralPattern.dll
+D:\amdaris\BehavioralPattern\BehavioralPattern\obj\Debug\net6.0\refint\BehavioralPattern.dll
+D:\amdaris\BehavioralPattern\BehavioralPattern\obj\Debug\net6.0\BehavioralPattern.pdb
+D:\amdaris\BehavioralPattern\BehavioralPattern\obj\Debug\net6.0\BehavioralPattern.genruntimeconfig.cache
+D:\amdaris\BehavioralPattern\BehavioralPattern\obj\Debug\net6.0\ref\BehavioralPattern.dll

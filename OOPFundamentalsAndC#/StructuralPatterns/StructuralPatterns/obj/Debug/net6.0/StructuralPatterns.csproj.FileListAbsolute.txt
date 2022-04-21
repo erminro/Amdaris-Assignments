@@ -1,0 +1,15 @@
+D:\amdaris\StructuralPatterns\StructuralPatterns\bin\Debug\net6.0\StructuralPatterns.exe
+D:\amdaris\StructuralPatterns\StructuralPatterns\bin\Debug\net6.0\StructuralPatterns.deps.json
+D:\amdaris\StructuralPatterns\StructuralPatterns\bin\Debug\net6.0\StructuralPatterns.runtimeconfig.json
+D:\amdaris\StructuralPatterns\StructuralPatterns\bin\Debug\net6.0\StructuralPatterns.dll
+D:\amdaris\StructuralPatterns\StructuralPatterns\bin\Debug\net6.0\StructuralPatterns.pdb
+D:\amdaris\StructuralPatterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.csproj.AssemblyReference.cache
+D:\amdaris\StructuralPatterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\amdaris\StructuralPatterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.AssemblyInfoInputs.cache
+D:\amdaris\StructuralPatterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.AssemblyInfo.cs
+D:\amdaris\StructuralPatterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.csproj.CoreCompileInputs.cache
+D:\amdaris\StructuralPatterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.dll
+D:\amdaris\StructuralPatterns\StructuralPatterns\obj\Debug\net6.0\refint\StructuralPatterns.dll
+D:\amdaris\StructuralPatterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.pdb
+D:\amdaris\StructuralPatterns\StructuralPatterns\obj\Debug\net6.0\StructuralPatterns.genruntimeconfig.cache
+D:\amdaris\StructuralPatterns\StructuralPatterns\obj\Debug\net6.0\ref\StructuralPatterns.dll

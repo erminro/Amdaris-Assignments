@@ -1,0 +1,15 @@
+D:\amdaris\CreationalPatterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.exe
+D:\amdaris\CreationalPatterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.deps.json
+D:\amdaris\CreationalPatterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.runtimeconfig.json
+D:\amdaris\CreationalPatterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.dll
+D:\amdaris\CreationalPatterns\CreationalPatterns\bin\Debug\net6.0\CreationalPatterns.pdb
+D:\amdaris\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.csproj.AssemblyReference.cache
+D:\amdaris\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\amdaris\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.AssemblyInfoInputs.cache
+D:\amdaris\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.AssemblyInfo.cs
+D:\amdaris\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.csproj.CoreCompileInputs.cache
+D:\amdaris\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.dll
+D:\amdaris\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\refint\CreationalPatterns.dll
+D:\amdaris\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.pdb
+D:\amdaris\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\CreationalPatterns.genruntimeconfig.cache
+D:\amdaris\CreationalPatterns\CreationalPatterns\obj\Debug\net6.0\ref\CreationalPatterns.dll
